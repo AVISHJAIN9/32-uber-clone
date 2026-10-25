@@ -1,0 +1,153 @@
+{
+	"folders": [
+		{
+			"name": "14-tracing-backend",
+			"path": "../../14-tracing-backend"
+		},
+		{
+			"name": "15-llm-inference-scheduler",
+			"path": "../../15-llm-inference-scheduler"
+		},
+		{
+			"name": "16-rate-limit-gateway",
+			"path": "../../16-rate-limit-gateway"
+		},
+		{
+			"name": "17-cdn-caching-proxy",
+			"path": "../../17-cdn-caching-proxy"
+		},
+		{
+			"name": "18-flash-sale-inventory",
+			"path": "../../18-flash-sale-inventory"
+		},
+		{
+			"name": "19-usage-billing-engine",
+			"path": "../../19-usage-billing-engine"
+		},
+		{
+			"name": "20-notification-delivery-platform",
+			"path": "../../20-notification-delivery-platform"
+		},
+		{
+			"name": "21-bis-compliance-engine",
+			"path": "../../21-bis-compliance-engine"
+		},
+		{
+			"name": "24-repogenesis-healthcare",
+			"path": "../../24-repogenesis-healthcare"
+		},
+		{
+			"name": "25 nasa",
+			"path": "../../25 nasa"
+		},
+		{
+			"name": "26-cooking-nexus",
+			"path": "../../26-cooking-nexus"
+		},
+		{
+			"name": "31-banking",
+			"path": "../../31-banking"
+		},
+		{
+			"name": "32-chat-app",
+			"path": "../../32-chat-app"
+		},
+		{
+			"name": "33-codealchemist",
+			"path": "../../33-codealchemist"
+		},
+		{
+			"name": "34-backend-mastery",
+			"path": "../../34-backend-mastery"
+		},
+		{
+			"name": "35-os-club",
+			"path": "../../35-os-club"
+		},
+		{
+			"name": "36-blog-wrriting",
+			"path": "../../36-blog-wrriting"
+		},
+		{
+			"name": "37-url-shortner",
+			"path": "../../37-url-shortner"
+		},
+		{
+			"name": "38-uber-clone",
+			"path": ".."
+		},
+		{
+			"name": "39-hand-gesture-cv",
+			"path": "../../39-hand-gesture-cv"
+		},
+		{
+			"name": "40-python-calculator",
+			"path": "../../40-python-calculator"
+		},
+		{
+			"name": "41-flappy-bird-game",
+			"path": "../../41-flappy-bird-game"
+		},
+		{
+			"name": "42-guess-color-game",
+			"path": "../../42-guess-color-game"
+		},
+		{
+			"name": "43-nature-booking-natours",
+			"path": "../../43-nature-booking-natours"
+		},
+		{
+			"name": "44-forkify-recipe-app",
+			"path": "../../44-forkify-recipe-app"
+		},
+		{
+			"name": "45-amazon-landing-page",
+			"path": "../../45-amazon-landing-page"
+		},
+		{
+			"name": "46-event-hospital-website",
+			"path": "../../46-event-hospital-website"
+		},
+		{
+			"name": "47-stonehomes-vscode-zerodha-landings",
+			"path": "../../47-stonehomes-vscode-zerodha-landings"
+		},
+		{
+			"name": "48-devsprint-landing-page-redesign",
+			"path": "../../48-devsprint-landing-page-redesign"
+		},
+		{
+			"name": "49-frontend-restaurant",
+			"path": "../../49-frontend-restaurant"
+		},
+		{
+			"name": "50-starbugs-frontend-copy",
+			"path": "../../50-starbugs-frontend-copy"
+		},
+		{
+			"name": "52-trilo-travel-ui",
+			"path": "../../52-trilo-travel-ui"
+		},
+		{
+			"name": "53-testimonials-grid",
+			"path": "../../53-testimonials-grid"
+		},
+		{
+			"name": "54-login-auth-portal",
+			"path": "../../54-login-auth-portal"
+		},
+		{
+			"name": "55-zomato-reel-feed",
+			"path": "../../55-zomato-reel-feed"
+		},
+		{
+			"name": "56-avishjain-weatherapp",
+			"path": "../../56-avishjain-weatherapp"
+		},
+		{
+			"name": "57-weatherapp-client",
+			"path": "../../57-weatherapp-client"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "uber-clone-suite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-Stack Uber Clone with Live Tracking, Socket.io Real-Time Dispatch, Google Maps API, and Captain & Rider Portals",
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "uber-clone",
+    "mern",
+    "react",
+    "socket.io",
+    "google-maps",
+    "express",
+    "mongodb"
+  ],
+  "license": "ISC"
+}
