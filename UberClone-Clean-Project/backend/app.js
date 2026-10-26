@@ -1,3 +1,7 @@
+const buffer = require('buffer');
+if (!buffer.SlowBuffer) { buffer.SlowBuffer = { prototype: {} }; }
+if (typeof global.SlowBuffer === 'undefined') { global.SlowBuffer = buffer.SlowBuffer; }
+
 const dotenv = require('dotenv');
 dotenv.config();
 const express = require('express');
