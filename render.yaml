@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: aj-uber-clone
+    runtime: node
+    plan: free
+    autoDeploy: true
+    rootDir: UberClone-Clean-Project/backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: MONGO_URI
+        sync: false
+      - key: DB_CONNECT
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: GOOGLE_MAPS_API
+        sync: false
