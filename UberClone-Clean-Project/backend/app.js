@@ -23,6 +23,10 @@ app.get('/', (req, res) => {
     res.send('Hello World');
 });
 
+app.get('/health', (req, res) => {
+    res.json({ status: 'ok', service: 'Uber Clone API' });
+});
+
 app.use('/users', userRoutes);
 app.use('/captains', captainRoutes);
 app.use('/maps', mapsRoutes);
